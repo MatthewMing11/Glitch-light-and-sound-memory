@@ -6,7 +6,7 @@ Submitted by: **Matthew Ming**
 
 Time spent: **1** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com/edit/#!/steel-deciduous-gull?path=README.md%3A71%3A186)
+Link to project: (https://glitch.com/edit/#!/steel-deciduous-gull?path=README.md%3A71%3A186)
 
 ## Required Functionality
 
