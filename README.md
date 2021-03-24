@@ -6,7 +6,7 @@ Submitted by: **Matthew Ming**
 
 Time spent: **1** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://glitch.com/edit/#!/steel-deciduous-gull?path=README.md%3A71%3A186)
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![x](https://i.imgur.com/T62crk8.gif)
 
 
 ## Reflection Questions
